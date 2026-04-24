@@ -18,10 +18,11 @@ I'm a Data Analyst transitioning from research and programme management with a m
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Core Strengths:** Data cleaning & EDA | SQL queries | Tableau visualization | Machine learning | Feature engineering | Data storytelling | AI-assisted analytics
+**Core Strengths:** Data cleaning & EDA | SQL queries | Tableau visualization | Machine learning | NLP | Feature engineering | Data storytelling | Web app deployment | AI-assisted analytics
 
 ---
 
@@ -29,10 +30,10 @@ I'm a Data Analyst transitioning from research and programme management with a m
 
 | Project | Tech Stack | Key Insights & Impact |
 |---------|-----------|----------------------|
-| [**HDB Resale Price Predictor & Town Recommender**](#) | `Python`, `LightGBM`, `Scikit-learn`, `Tableau` | Team project analyzing **270K+ transactions** to build a price predictor achieving **95% accuracy** (±$38K error) and town recommender at **99% accuracy**. Engineered features like Liveability Index and Flat Type Mix Score. |
-| [**Singapore Election Competitiveness Analysis**](#) | `Tableau`, `Excel`, `Data Journalism` | Analyzed **78 years of electoral history** (1968-2025), uncovering how opposition vote share grew from **13.3% to 34.4%** while walkovers collapsed from **51 to 1 seat**. |
-| [**UK Gender Pay Gap Study**](#) | `SQL`, `Data Analysis` | Evaluated **82,935 employer submissions** under UK's 2017 reporting mandate, revealing a **15.8% median pay gap** with insights on SME reporting coverage and industry patterns. |
-| [**[Capstone Project - Coming Soon]**](#) | `Python`, `Machine Learning` | *Currently in development* |
+| [**Social-Issues Podcast Recommender**](https://github.com/paleshirt/GA_DA_Capstone_Project) | `Python`, `NLP`, `TF-IDF`, `Logistic Regression`, `Streamlit`, `Spotify API` | Built an explainable NLP recommender achieving **98.73% accuracy** in classifying podcast episodes. Processes **400 episodes** with 4 rounds of text preprocessing to remove data leakage. Features transparent recommendations with theme tags, keyword explanations, and live deployment at [betterquestions.streamlit.app](https://betterquestions.streamlit.app/). |
+| [**HDB Resale Price Predictor & Town Recommender**](https://github.com/paleshirt/hdb-resale-predictor) | `Python`, `LightGBM`, `Scikit-learn`, `Tableau` | Team project analyzing **270K+ transactions** to build a price predictor achieving **95% accuracy** (±$38K error) and town recommender at **99% accuracy**. Engineered features like Liveability Index and Flat Type Mix Score. |
+| [**Singapore Election Competitiveness Analysis**](https://github.com/paleshirt/singapore-election-analysis) | `Tableau`, `Excel`, `Data Journalism` | Analyzed **78 years of electoral history** (1968-2025), uncovering how opposition vote share grew from **13.3% to 34.4%** while walkovers collapsed from **51 to 1 seat**. |
+| [**UK Gender Pay Gap Study**](https://github.com/paleshirt/uk-pay-gap-study) | `SQL`, `Data Analysis` | Evaluated **82,935 employer submissions** under UK's 2017 reporting mandate, revealing a **15.8% median pay gap** with insights on SME reporting coverage and industry patterns. |
 
 ---
 
@@ -80,10 +81,11 @@ Open to opportunities in:
 
 ### 🌟 Currently Working On
 
-- 🔨 Building out my analytics portfolio with detailed project documentation
-- 📊 Exploring advanced machine learning techniques and model deployment
-- 💼 Actively applying for data analyst roles in Singapore
-- 🤝 Connecting with the data analytics community
+- 💼 Actively seeking Data Analyst or Research Analyst roles in Singapore
+- 📊 Maintaining my deployed [Podcast Recommender app](https://betterquestions.streamlit.app/) (98.73% accuracy)
+- 🔨 Building additional analytics projects to expand my portfolio
+- 🤝 Networking with data professionals and hiring managers
+- 📝 Sharing project insights on LinkedIn
 
 ---
 
