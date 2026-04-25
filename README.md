@@ -62,7 +62,7 @@ After working in research coordination and programme management, I kept finding 
 
 ### 📍 Based in Singapore
 
-Currently seeking **Data Analyst** or **Research Analyst** roles where I can apply SQL, Python, Tableau, and machine learning to solve real problems and drive data-informed decisions.
+Currently seeking **Data Analyst** or **Research Analyst** or **Business Analyst** roles where I can apply SQL, Python, Tableau, and machine learning to solve real problems and drive data-informed decisions.
 
 Open to opportunities in:
 - Research & policy analysis
@@ -95,7 +95,7 @@ I'm always interested in connecting with fellow data enthusiasts, potential coll
 
 - **LinkedIn:** [linkedin.com/in/muhdnuruddin](https://www.linkedin.com/in/muhdnuruddin/)
 - **Email:** muhammadnurudean@gmail.com
-- **Portfolio:** *[In progress - check back soon!]*
+- **Portfolio:** [paleshirt.github.io/Nuruddin_Data_Analyst_Portfolio/](https://paleshirt.github.io/Nuruddin_Data_Analyst_Portfolio/)
 
 ---
 
